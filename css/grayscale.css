@@ -39,7 +39,7 @@ p {
   }
 }
 a {
-  color: #1483DF;
+  color: #00a0f7;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -47,7 +47,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #bfbfbf;
+  color: #96f4ff;
 }
 .light {
   font-weight: 400;
@@ -262,13 +262,13 @@ a:focus {
   border-radius: 0;
 }
 .btn-default {
-  border: 1px solid #1483DF;
-  color: #1483DF;
+  border: 1px solid #00a0f7;
+  color: #00a0f7;
   background-color: transparent;
 }
 .btn-default:hover,
 .btn-default:focus {
-  border: 1px solid #1483DF;
+  border: 1px solid #00a0f7;
   outline: none;
   color: black;
   background-color: #bfbfbf;
