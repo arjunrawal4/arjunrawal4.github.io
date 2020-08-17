@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rohan Kumar | Arjun Rawal</title>
-    <link>arjunrawal4.github.io/author/rohan-kumar/</link>
-      <atom:link href="arjunrawal4.github.io/author/rohan-kumar/index.xml" rel="self" type="application/rss+xml" />
+    <link>arjunrawal4.me/author/rohan-kumar/</link>
+      <atom:link href="arjunrawal4.me/author/rohan-kumar/index.xml" rel="self" type="application/rss+xml" />
     <description>Rohan Kumar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Arjun Rawal 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/arjunrawal4.github.io/images/icon_hu0d30d622b01fc314802ba665a1a74eb4_6630_512x512_fill_lanczos_center_2.png</url>
+      <url>/arjunrawal4.me/images/icon_hu0d30d622b01fc314802ba665a1a74eb4_6630_512x512_fill_lanczos_center_2.png</url>
       <title>Rohan Kumar</title>
-      <link>arjunrawal4.github.io/author/rohan-kumar/</link>
+      <link>arjunrawal4.me/author/rohan-kumar/</link>
     </image>
     
     <item>
       <title>Improving Movie Recommendations with Domain-Specific Insights</title>
-      <link>arjunrawal4.github.io/publication/kumarimproving/</link>
+      <link>arjunrawal4.me/publication/kumarimproving/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>arjunrawal4.github.io/publication/kumarimproving/</guid>
+      <guid>arjunrawal4.me/publication/kumarimproving/</guid>
       <description></description>
     </item>
     

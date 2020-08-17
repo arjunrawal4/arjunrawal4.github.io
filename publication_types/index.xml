@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Arjun Rawal</title>
-    <link>arjunrawal4.github.io/publication_types/</link>
-      <atom:link href="arjunrawal4.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>arjunrawal4.me/publication_types/</link>
+      <atom:link href="arjunrawal4.me/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Arjun Rawal 2020</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/arjunrawal4.github.io/images/icon_hu0d30d622b01fc314802ba665a1a74eb4_6630_512x512_fill_lanczos_center_2.png</url>
+      <url>/arjunrawal4.me/images/icon_hu0d30d622b01fc314802ba665a1a74eb4_6630_512x512_fill_lanczos_center_2.png</url>
       <title>Publication_types</title>
-      <link>arjunrawal4.github.io/publication_types/</link>
+      <link>arjunrawal4.me/publication_types/</link>
     </image>
     
   </channel>
