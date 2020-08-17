@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chen Zou23 | Arjun Rawal</title>
-    <link>arjunrawal.me/author/chen-zou23/</link>
-      <atom:link href="arjunrawal.me/author/chen-zou23/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/chen-zou23/</link>
+      <atom:link href="/author/chen-zou23/index.xml" rel="self" type="application/rss+xml" />
     <description>Chen Zou23</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Arjun Rawal 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/arjunrawal.me/images/icon_hu0d30d622b01fc314802ba665a1a74eb4_6630_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0d30d622b01fc314802ba665a1a74eb4_6630_512x512_fill_lanczos_center_2.png</url>
       <title>Chen Zou23</title>
-      <link>arjunrawal.me/author/chen-zou23/</link>
+      <link>/author/chen-zou23/</link>
     </image>
     
     <item>
       <title>Project 38: Accelerating Architecture Innovation into Fieldable Extreme-scale Systems (A cross-agency effort)</title>
-      <link>arjunrawal.me/publication/shalf-2019-project/</link>
+      <link>/publication/shalf-2019-project/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>arjunrawal.me/publication/shalf-2019-project/</guid>
+      <guid>/publication/shalf-2019-project/</guid>
       <description></description>
     </item>
     

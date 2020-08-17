@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Arjun Rawal</title>
-    <link>arjunrawal.me/publication-type/3/</link>
-      <atom:link href="arjunrawal.me/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication-type/3/</link>
+      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Arjun Rawal 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/arjunrawal.me/images/icon_hu0d30d622b01fc314802ba665a1a74eb4_6630_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0d30d622b01fc314802ba665a1a74eb4_6630_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
-      <link>arjunrawal.me/publication-type/3/</link>
+      <link>/publication-type/3/</link>
     </image>
     
     <item>
       <title>SPyAudio: A Configurable Framework for Sending Data Through a Covert Audio Channel</title>
-      <link>arjunrawal.me/publication/rawalspyaudio/</link>
+      <link>/publication/rawalspyaudio/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>arjunrawal.me/publication/rawalspyaudio/</guid>
+      <guid>/publication/rawalspyaudio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accelerating CSV Analysis Using a Databases Approach</title>
-      <link>arjunrawal.me/publication/rawal-db-project/</link>
+      <link>/publication/rawal-db-project/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>arjunrawal.me/publication/rawal-db-project/</guid>
+      <guid>/publication/rawal-db-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Movie Recommendations with Domain-Specific Insights</title>
-      <link>arjunrawal.me/publication/kumarimproving/</link>
+      <link>/publication/kumarimproving/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>arjunrawal.me/publication/kumarimproving/</guid>
+      <guid>/publication/kumarimproving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reducing Hash-Table Memory Usage with Variable-Sized Tables</title>
-      <link>arjunrawal.me/publication/rawal-hash-project/</link>
+      <link>/publication/rawal-hash-project/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>arjunrawal.me/publication/rawal-hash-project/</guid>
+      <guid>/publication/rawal-hash-project/</guid>
       <description></description>
     </item>
     
