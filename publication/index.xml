@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Arjun Rawal</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://arjunrawal.me/publication/</link>
+      <atom:link href="https://arjunrawal.me/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Arjun Rawal 2020</copyright>
     <image>
-      <url>/images/icon_hu0d30d622b01fc314802ba665a1a74eb4_6630_512x512_fill_lanczos_center_2.png</url>
+      <url>https://arjunrawal.me/images/icon_hu0d30d622b01fc314802ba665a1a74eb4_6630_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://arjunrawal.me/publication/</link>
     </image>
     
     <item>
       <title>Exploiting Domain-Specific Data Properties to Improve Compression for High Energy Physics Data</title>
-      <link>/publication/rawal-2020-exploiting/</link>
+      <link>https://arjunrawal.me/publication/rawal-2020-exploiting/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/rawal-2020-exploiting/</guid>
+      <guid>https://arjunrawal.me/publication/rawal-2020-exploiting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SPyAudio: A Configurable Framework for Sending Data Through a Covert Audio Channel</title>
-      <link>/publication/rawalspyaudio/</link>
+      <link>https://arjunrawal.me/publication/rawalspyaudio/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/rawalspyaudio/</guid>
+      <guid>https://arjunrawal.me/publication/rawalspyaudio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accelerating CSV Analysis Using a Databases Approach</title>
-      <link>/publication/rawal-db-project/</link>
+      <link>https://arjunrawal.me/publication/rawal-db-project/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/rawal-db-project/</guid>
+      <guid>https://arjunrawal.me/publication/rawal-db-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Movie Recommendations with Domain-Specific Insights</title>
-      <link>/publication/kumarimproving/</link>
+      <link>https://arjunrawal.me/publication/kumarimproving/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/kumarimproving/</guid>
+      <guid>https://arjunrawal.me/publication/kumarimproving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reducing Hash-Table Memory Usage with Variable-Sized Tables</title>
-      <link>/publication/rawal-hash-project/</link>
+      <link>https://arjunrawal.me/publication/rawal-hash-project/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rawal-hash-project/</guid>
+      <guid>https://arjunrawal.me/publication/rawal-hash-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programmable Acceleration for Sparse Matrices in a Data-movement Limited World</title>
-      <link>/publication/rawal-2019-programmable/</link>
+      <link>https://arjunrawal.me/publication/rawal-2019-programmable/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rawal-2019-programmable/</guid>
+      <guid>https://arjunrawal.me/publication/rawal-2019-programmable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project 38: Accelerating Architecture Innovation into Fieldable Extreme-scale Systems (A cross-agency effort)</title>
-      <link>/publication/shalf-2019-project/</link>
+      <link>https://arjunrawal.me/publication/shalf-2019-project/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/shalf-2019-project/</guid>
+      <guid>https://arjunrawal.me/publication/shalf-2019-project/</guid>
       <description></description>
     </item>
     
