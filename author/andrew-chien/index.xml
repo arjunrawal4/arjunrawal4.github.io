@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrew Chien | Arjun Rawal</title>
-    <link>arjunrawal4.me/author/andrew-chien/</link>
-      <atom:link href="arjunrawal4.me/author/andrew-chien/index.xml" rel="self" type="application/rss+xml" />
+    <link>arjunrawal.me/author/andrew-chien/</link>
+      <atom:link href="arjunrawal.me/author/andrew-chien/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrew Chien</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Arjun Rawal 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/arjunrawal4.me/images/icon_hu0d30d622b01fc314802ba665a1a74eb4_6630_512x512_fill_lanczos_center_2.png</url>
+      <url>/arjunrawal.me/images/icon_hu0d30d622b01fc314802ba665a1a74eb4_6630_512x512_fill_lanczos_center_2.png</url>
       <title>Andrew Chien</title>
-      <link>arjunrawal4.me/author/andrew-chien/</link>
+      <link>arjunrawal.me/author/andrew-chien/</link>
     </image>
     
     <item>
       <title>Programmable Acceleration for Sparse Matrices in a Data-movement Limited World</title>
-      <link>arjunrawal4.me/publication/rawal-2019-programmable/</link>
+      <link>arjunrawal.me/publication/rawal-2019-programmable/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>arjunrawal4.me/publication/rawal-2019-programmable/</guid>
+      <guid>arjunrawal.me/publication/rawal-2019-programmable/</guid>
       <description></description>
     </item>
     

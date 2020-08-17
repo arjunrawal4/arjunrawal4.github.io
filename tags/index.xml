@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Arjun Rawal</title>
-    <link>arjunrawal4.me/tags/</link>
-      <atom:link href="arjunrawal4.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>arjunrawal.me/tags/</link>
+      <atom:link href="arjunrawal.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Arjun Rawal 2020</copyright>
     <image>
-      <url>/arjunrawal4.me/images/icon_hu0d30d622b01fc314802ba665a1a74eb4_6630_512x512_fill_lanczos_center_2.png</url>
+      <url>/arjunrawal.me/images/icon_hu0d30d622b01fc314802ba665a1a74eb4_6630_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>arjunrawal4.me/tags/</link>
+      <link>arjunrawal.me/tags/</link>
     </image>
     
   </channel>

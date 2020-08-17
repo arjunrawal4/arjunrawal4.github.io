@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arjun Rawal</title>
-    <link>arjunrawal4.me/author/arjun-rawal/</link>
-      <atom:link href="arjunrawal4.me/author/arjun-rawal/index.xml" rel="self" type="application/rss+xml" />
+    <link>arjunrawal.me/author/arjun-rawal/</link>
+      <atom:link href="arjunrawal.me/author/arjun-rawal/index.xml" rel="self" type="application/rss+xml" />
     <description>Arjun Rawal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Arjun Rawal 2020</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/arjunrawal4.me/images/icon_hu0d30d622b01fc314802ba665a1a74eb4_6630_512x512_fill_lanczos_center_2.png</url>
+      <url>/arjunrawal.me/images/icon_hu0d30d622b01fc314802ba665a1a74eb4_6630_512x512_fill_lanczos_center_2.png</url>
       <title>Arjun Rawal</title>
-      <link>arjunrawal4.me/author/arjun-rawal/</link>
+      <link>arjunrawal.me/author/arjun-rawal/</link>
     </image>
     
     <item>
       <title>Exploiting Domain-Specific Data Properties to Improve Compression for High Energy Physics Data</title>
-      <link>arjunrawal4.me/publication/rawal-2020-exploiting/</link>
+      <link>arjunrawal.me/publication/rawal-2020-exploiting/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>arjunrawal4.me/publication/rawal-2020-exploiting/</guid>
+      <guid>arjunrawal.me/publication/rawal-2020-exploiting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SPyAudio: A Configurable Framework for Sending Data Through a Covert Audio Channel</title>
-      <link>arjunrawal4.me/publication/rawalspyaudio/</link>
+      <link>arjunrawal.me/publication/rawalspyaudio/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>arjunrawal4.me/publication/rawalspyaudio/</guid>
+      <guid>arjunrawal.me/publication/rawalspyaudio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accelerating CSV Analysis Using a Databases Approach</title>
-      <link>arjunrawal4.me/publication/rawal-db-project/</link>
+      <link>arjunrawal.me/publication/rawal-db-project/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>arjunrawal4.me/publication/rawal-db-project/</guid>
+      <guid>arjunrawal.me/publication/rawal-db-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Movie Recommendations with Domain-Specific Insights</title>
-      <link>arjunrawal4.me/publication/kumarimproving/</link>
+      <link>arjunrawal.me/publication/kumarimproving/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>arjunrawal4.me/publication/kumarimproving/</guid>
+      <guid>arjunrawal.me/publication/kumarimproving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reducing Hash-Table Memory Usage with Variable-Sized Tables</title>
-      <link>arjunrawal4.me/publication/rawal-hash-project/</link>
+      <link>arjunrawal.me/publication/rawal-hash-project/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>arjunrawal4.me/publication/rawal-hash-project/</guid>
+      <guid>arjunrawal.me/publication/rawal-hash-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programmable Acceleration for Sparse Matrices in a Data-movement Limited World</title>
-      <link>arjunrawal4.me/publication/rawal-2019-programmable/</link>
+      <link>arjunrawal.me/publication/rawal-2019-programmable/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>arjunrawal4.me/publication/rawal-2019-programmable/</guid>
+      <guid>arjunrawal.me/publication/rawal-2019-programmable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project 38: Accelerating Architecture Innovation into Fieldable Extreme-scale Systems (A cross-agency effort)</title>
-      <link>arjunrawal4.me/publication/shalf-2019-project/</link>
+      <link>arjunrawal.me/publication/shalf-2019-project/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>arjunrawal4.me/publication/shalf-2019-project/</guid>
+      <guid>arjunrawal.me/publication/shalf-2019-project/</guid>
       <description></description>
     </item>
     
