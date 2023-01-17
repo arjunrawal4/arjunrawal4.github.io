@@ -1,163 +1,99 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://arjunrawal.me/publication-type/7/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/author/arjun-rawal/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/authors/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/publication/rawal-2020-exploiting/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/publication_types/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/publication-type/3/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/publication/rawalspyaudio/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/publication/rawal-db-project/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/publication/kumarimproving/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/publication/rawal-hash-project/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/author/rohan-kumar/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/author/others/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/publication-type/0/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/publication-type/1/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/author/anastasia-butko/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/author/andrew-a-chien/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/author/andrew-chien/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/author/chen-zou23/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/author/david-donofrio/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/author/dilip-vasudevan/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/author/john-shalf/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/author/kris-keipert/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/publication/rawal-2019-programmable/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/publication/shalf-2019-project/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/author/ray-bair/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/author/yuanwei-fang/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/author/arjun-rawal/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/post/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/publication/</loc>
     <lastmod>2020-08-17T18:17:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://arjunrawal.me/tags/</loc>
   </url>
-  
 </urlset>
